@@ -1,7 +1,7 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿ using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
-namespace _03_Loops
+namespace _06_RepositoryPattern_Tests
 {
     [TestClass]
     public class UnitTest1
